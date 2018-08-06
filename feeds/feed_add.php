@@ -41,7 +41,7 @@ function showFeeds()
 	get_header();
 	echo '<h3 align="center">' . smartTitle() . '</h3>';
 
-	$sql = "select FeedID,CategoryID,SubCategory,Description from sm18_Feeds";
+	$sql = "select FeedID,CategoryID,SubCategory,Description from sm18_News_Feeds";
 	$result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::conn()), E_USER_ERROR));
 	if (mysqli_num_rows($result) > 0)//at least one record!
 	{//show results
@@ -97,25 +97,25 @@ function addFeed()
 		<tr><td align="right">FeedID</td>
 		   	<td>
 		   		<input type="number" name="FeedID" />
-		   		<font color="red"><b>*</b></font> <em>(Number after the last Feed)</em>
+		   		<font color="red"><b>*</b></font> <em>( Inter next number to the last FeedID)</em>
 		   	</td>
 	   </tr>
 	   <tr><td align="right">CategoryID</td>
 		   	<td>
 		   		<input type="number" name="CategoryID" />
-		   		<font color="red"><b>*</b></font> <em>(1-Technology, 2- Music, 3- Sports)</em>
+		   		<font color="red"><b>*</b></font> <em>(1-Music, 2- Health, 3- Movies)</em>
 		   	</td>
 	   </tr>
 	   <tr><td align="right">SubCategory</td>
 		   	<td>
 		   		<input type="text" name="SubCategory" />
-		   		<font color="red"><b>*</b></font> <em>(Technology, Music, or Sports)</em>
+		   		<font color="red"><b>*</b></font> <em>(Music, Health, or Movies)</em>
 		   	</td>
 	   </tr>
 	   <tr><td align="right">Description</td>
 		   	<td>
 		   		<input type="text" name="Description" />
-		   		<font color="red"><b>*</b></font> <em>(Feed RSS link)</em>
+		   		<font color="red"><b>*</b></font> <em>( News Feed link)</em>
 		   	</td>
 	   </tr>
 	   <input type="hidden" name="act" value="insert" />
@@ -159,7 +159,7 @@ function insertExecute()
 	}*/
 
     //build string for SQL insert with replacement vars, %s for string, %d for digits 
-    $sql = "INSERT INTO sm18_Feeds (FeedID, CategoryID, SubCategory, Description) VALUES ('%s','%s','%s', '%s')"; 
+    $sql = "INSERT INTO sm18_News_Feeds (FeedID, CategoryID, SubCategory, Description) VALUES ('%s','%s','%s', '%s')"; 
 
     # sprintf() allows us to filter (parameterize) form data 
 	$sql = sprintf($sql,$FeedID,$CategoryID,$SubCategory,$Description);
