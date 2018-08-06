@@ -103,6 +103,7 @@ if(mysqli_num_rows($result) > 0)
 	echo"
 		
         <p><a  href='feed_add.php'>ADD NEWS FEED</a></p>";
+      
 	
 
 get_footer(); #defaults to theme footer or footer_inc.php

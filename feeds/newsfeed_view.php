@@ -91,6 +91,9 @@ if(mysqli_num_rows($result) > 0)
 }
 @mysqli_free_result($result);
 
+echo"
+		
+        <p><a  href='feed_edit.php'>EDIT NEWS FEED</a></p>";
 get_footer(); #defaults to theme footer or footer_inc.php
 
 
