@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * feed.php along with newsfeed_view.php provides a sample web application
  *
@@ -116,6 +116,7 @@ $xml = simplexml_load_string($response);
 print '<h1>' . $xml->channel->title . '</h1>';
 
 // process through the array of stories and display link+title+description
+get_header();
 foreach($xml->channel->item as $story)
   {
     echo '<h3>' . $story->title . '</h3>
@@ -139,4 +140,5 @@ class Feed
     }//end Feed constructor
 
 }//end feed class
+get_footer();
 ?>
