@@ -48,7 +48,7 @@ INSERT INTO sm18_News_Feeds_Categories
 VALUES (2,'Health', 'Dentistry, Dermatology, Cardiology', NOW(), NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds_Categories
-VALUES (3,'Movies', 'Action, Adventure, Comedy', NOW(), NOW(),NOW());
+VALUES (3,'Movies', 'Horror, Romance, Superhero', NOW(), NOW(),NOW());
 
 
 
@@ -74,13 +74,12 @@ VALUES ('NULL',2,'Cardiology', 'Dentistry, Dermatology, Cardiology', '', NOW(),N
 
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',3,'Action', 'Action, Adventure, Comedy', '', NOW(),NOW(),NOW());
+VALUES ('NULL',3,'Horror', 'Horror, Romance, Superhero', 'https://www.fandango.com/movies/horror/rss/movie-list.rss', NOW(),NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',3,'Adventure', 'Action, Adventure, Comedy', '', NOW(),NOW(),NOW());
+VALUES ('NULL',3,'Romance', 'Horror, Romance, Superhero', 'https://www.fandango.com/movies/valentinesday/rss/movie-list.rss', NOW(),NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds 
-VALUES ('NULL',3,'Comedy', 'Action, Adventure, Comedy', '', NOW(),NOW(),NOW());
+VALUES ('NULL',3,'Superhero', 'Horror, Romance, Superhero', 'https://www.fandango.com/movies/superhero/rss/movie-list.rss', NOW(),NOW(),NOW());
 
 SET FOREIGN_KEY_CHECKS=1;
-
