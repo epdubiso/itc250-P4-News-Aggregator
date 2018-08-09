@@ -19,31 +19,25 @@ spl_autoload_register('MyAutoLoader::NamespaceLoader');//required to load Survey
 $config->metaRobots = 'no index, no follow';#never index feed pages
 #Fills <title> tag. If left empty will default to $PageTitle in config_inc.php  
 $config->titleTag = 'News Feed Sub-Categories';
-
-
 # check variable of item passed in - if invalid data, forcibly redirect back to feeds/index.php page
 if(isset($_GET['id']) && (int)$_GET['id'] > 0){#proper data must be on querystring
 	 $myID = (int)$_GET['id']; #Convert to integer, will equate to zero if fails
 }else{
 	myRedirect(VIRTUAL_PATH . "feeds/index.php");
 }
-
+get_header(); 
 ?>
 <h3 align="center">Sub Categories</h3>
 <?php
-
 $sql = "select * from " . PREFIX . "News_Feeds where CategoryID=" . $myID;
-
 $prev = '<i class="fa fa-chevron-circle-left"></i>';
 $next = '<i class="fa fa-chevron-circle-right"></i>';
-
 # Create instance of new 'pager' class
 $myPager = new Pager(10,'',$prev,$next,'');
 $sql = $myPager->loadSQL($sql);  #load SQL, add offset
 //$sqlRSS = "select Description from sm18_News_Feeds where FeedID=" . $feedID;
 # connection comes first in mysqli (improved) function
 $result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::conn()), E_USER_ERROR));
-
 if(mysqli_num_rows($result) > 0)
 {#records exist - process
 	if($myPager->showTotal()===1){$item = "Sub category";}else{$item = "Sub categories";}  //deal with plural
@@ -57,7 +51,6 @@ if(mysqli_num_rows($result) > 0)
           <th scope="col">Sub Categories</th>
           <th scope="col">Description</th>
           <th scope="col">Date Created</th>
-
         </tr>
       </thead>
          <tbody>
@@ -83,14 +76,10 @@ if(mysqli_num_rows($result) > 0)
     echo '
              </tbody>
         </table>
-
     ';
 	echo $myPager->showNAV(); # show paging nav, only if enough records	 
 }else{#no records
     echo "<div align=center>There are currently no sub-categories.</div>";	
 }
 @mysqli_free_result($result);
-
 get_footer(); #defaults to theme footer or footer_inc.php
-
-
