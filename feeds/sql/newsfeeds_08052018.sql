@@ -63,13 +63,13 @@ VALUES ('NULL',1,'Jazz and Blues', 'Classical, Country, Jazz and Blues', 'http:/
 
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',2,'Dentistry', 'Dentistry, Dermatology, Cardiology', '', NOW(),NOW(),NOW());
+VALUES ('NULL',2,'Allergy', 'Allergy News', 'https://rss.medicalnewstoday.com/allergy.xml', NOW(),NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',2,'Dermatology', 'Dentistry, Dermatology, Cardiology', '', NOW(),NOW(),NOW());
+VALUES ('NULL',2,'Asthma', 'Asthma News', 'https://rss.medicalnewstoday.com/asthma.xml', NOW(),NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',2,'Cardiology', 'Dentistry, Dermatology, Cardiology', '', NOW(),NOW(),NOW());
+VALUES ('NULL',2,'Anxiety', 'Anxiety News', 'https://rss.medicalnewstoday.com/anxiety.xml', NOW(),NOW(),NOW());
 
 
 
