@@ -1,0 +1,15 @@
+[Jul-19-2018 17:17:48] Undefined index: SurveyName in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 84
+[Jul-19-2018 17:17:48] Undefined index: Price in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 85
+[Jul-19-2018 17:20:17] Undefined index: SurveyName in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 81
+[Jul-19-2018 17:20:17] Undefined index: Price in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 82
+[Jul-19-2018 17:21:25] Undefined index: SurveyName in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 81
+[Jul-19-2018 17:21:25] Undefined index: Price in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 82
+[Jul-19-2018 17:22:44] Undefined index: SurveyName in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 81
+[Jul-19-2018 17:22:44] Undefined index: Price in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 82
+[Jul-19-2018 17:25:40] Undefined index: SurveyName in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 81
+[Jul-19-2018 17:25:40] Undefined index: Price in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 82
+[Jul-19-2018 17:30:54] Table 'zack_250.test_Surveys' doesn't exist in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 31
+[Jul-19-2018 17:41:32] Undefined index: SurveyName in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 45
+[Jul-19-2018 17:41:32] Undefined index: Price in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 47
+[Jul-19-2018 17:41:32] Undefined index: MetaDescription in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 48
+[Jul-19-2018 17:41:32] Undefined index: MetaKeywords in /home/xinli32/xinglizack.com/sm18/surveys/survey_view.php on line 49
