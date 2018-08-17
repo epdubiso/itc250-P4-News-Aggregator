@@ -45,7 +45,7 @@ INSERT INTO sm18_News_Feeds_Categories
 VALUES (1,'Music', 'Classical, Country, Jazz and Blues', NOW(), NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds_Categories
-VALUES (2,'Health', 'Dentistry, Dermatology, Cardiology', NOW(), NOW(),NOW());
+VALUES (2,'General Health', 'Public Mental Health, International Health News, Anxiety', NOW(), NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds_Categories
 VALUES (3,'Movies', 'Horror, Romance, Superhero', NOW(), NOW(),NOW());
@@ -63,13 +63,13 @@ VALUES ('NULL',1,'Jazz and Blues', 'Classical, Country, Jazz and Blues', 'http:/
 
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',2,'Allergy', 'Allergy News', 'https://rss.medicalnewstoday.com/allergy.xml', NOW(),NOW(),NOW());
+VALUES ('NULL',2,'Public Mental Health', 'Health News', 'https://public.govdelivery.com/topics/USNLMMP_895/feed.rss', NOW(),NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',2,'Asthma', 'Asthma News', 'https://rss.medicalnewstoday.com/asthma.xml', NOW(),NOW(),NOW());
+VALUES ('NULL',2,'International Health News', 'General Health News', 'http://rss.cnn.com/rss/cnn_topstories.rss', NOW(),NOW(),NOW());
 
 INSERT INTO sm18_News_Feeds
-VALUES ('NULL',2,'Anxiety', 'Anxiety News', 'https://rss.medicalnewstoday.com/anxiety.xml', NOW(),NOW(),NOW());
+VALUES ('NULL',2,'Anxiety', 'News to reeduce Anxiety', 'https://www.nasa.gov/rss/dyn/image_of_the_day.rss', NOW(),NOW(),NOW());
 
 
 
