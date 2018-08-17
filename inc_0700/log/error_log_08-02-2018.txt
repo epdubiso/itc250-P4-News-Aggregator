@@ -1,0 +1,3 @@
+[Aug-02-2018 12:00:42] Undefined variable: myreturn in /home/xinli32/xinglizack.com/sm18/surveys/SurveySez/Question.php on line 52
+[Aug-02-2018 12:00:42] Undefined variable: myreturn in /home/xinli32/xinglizack.com/sm18/surveys/SurveySez/Question.php on line 52
+[Aug-02-2018 12:00:42] Undefined variable: myreturn in /home/xinli32/xinglizack.com/sm18/surveys/SurveySez/Question.php on line 52

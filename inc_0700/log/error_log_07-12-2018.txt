@@ -1,0 +1,102 @@
+[Jul-12-2018 14:56:02] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:56:02] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:56:02] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:12] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:12] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:12] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:32] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1294
+[Jul-12-2018 14:58:32] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1296
+[Jul-12-2018 14:58:32] Undefined variable: db in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1298
+[Jul-12-2018 14:58:34] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:34] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:34] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:35] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1294
+[Jul-12-2018 14:58:35] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1296
+[Jul-12-2018 14:58:35] Undefined variable: db in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1298
+[Jul-12-2018 14:58:36] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:36] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 14:58:36] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:08:47] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:08:47] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:08:47] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:17:14] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:17:14] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:17:14] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:21:04] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:21:04] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:21:04] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:50] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:50] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:50] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:52] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:52] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:52] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:55] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:55] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:22:55] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:04] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:04] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:04] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:06] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:06] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:06] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:08] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1294
+[Jul-12-2018 15:23:08] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1296
+[Jul-12-2018 15:23:08] Undefined variable: db in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1298
+[Jul-12-2018 15:23:10] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:10] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:23:10] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:24:12] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:24:12] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:24:12] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:24:14] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:24:14] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:24:14] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:28:17] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:28:17] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:28:17] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:37:57] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:37:57] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:37:57] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:46:30] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:46:30] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:46:30] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:47:08] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:47:08] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:47:08] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:52:58] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:52:58] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:52:58] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:53:15] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:53:15] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:53:15] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:58:51] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:58:51] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 15:58:51] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:13:33] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:13:33] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:13:33] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:22:20] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:22:20] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:22:20] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:25:25] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:25:25] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:25:25] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:17] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1294
+[Jul-12-2018 16:29:17] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1296
+[Jul-12-2018 16:29:17] Undefined variable: db in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1298
+[Jul-12-2018 16:29:22] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:22] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:22] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:23] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1294
+[Jul-12-2018 16:29:23] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1296
+[Jul-12-2018 16:29:23] Undefined variable: db in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1298
+[Jul-12-2018 16:29:26] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:26] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:26] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:27] PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1294
+[Jul-12-2018 16:29:27] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1296
+[Jul-12-2018 16:29:27] Undefined variable: db in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1298
+[Jul-12-2018 16:29:28] mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:28] mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
+[Jul-12-2018 16:29:28] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xinli32/xinglizack.com/sm18/inc_0700/common_inc.php on line 1271
